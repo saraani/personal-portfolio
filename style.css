@@ -1,0 +1,79 @@
+#link1{
+    margin: 2rem;
+    margin-left:78rem;
+    
+}
+#link1:hover{
+    text-decoration: underline;
+    font-size: 20px;
+}
+#link2{
+    margin: 2rem;
+}
+#link2:hover{
+    text-decoration: underline;
+    font-size: 20px;
+}
+#link3{
+    margin: 2rem;
+}
+#link3:hover{
+    text-decoration: underline;
+    font-size: 20px;
+}
+#link4{
+    margin: 2rem;
+}
+#link4:hover{
+    text-decoration: underline;
+    font-size: 20px;
+}
+#head{
+    margin-top: 2rem;
+   margin-left:6rem;
+   text-align:left;
+   font-size: 25px;
+}
+#head:hover{
+    font-size: 35px;
+    font-family: 'Lobster Two', cursive;
+}
+#collab{
+   margin: 2rem;
+}
+#img{
+    width: 100%;
+    height: 700px;
+    opacity: .78;
+}
+#img2{
+    margin-left: 47rem;
+    width: 20rem;
+    height: 20rem;
+    margin-top: 4rem;
+   
+}
+.name{
+    font-weight: 100;
+}
+#about{
+    text-decoration: 5px underline;
+    color: navy;
+}
+
+#hd3{
+    text-align: right;
+}
+#hd4{
+    text-align: right;
+}
+#hd2{
+    text-align:right;
+}
+#edupara{
+    margin-top: 6rem;
+    margin-right: 6rem;
+    margin-bottom: 2rem;
+   
+}
+
